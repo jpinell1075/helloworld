@@ -7,6 +7,6 @@
     <title>Hello World</title>
 </head>
 <body>
-    <h1>Esto es el index</h1>
+    <h1>Esto es el index con Github</h1>
 </body>
 </html>
